@@ -1,0 +1,2 @@
+error.log
+*.log(for all log file to ignore)
