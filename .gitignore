@@ -1,4 +1,4 @@
 error.log
 *.log(for all log file to ignore)
 dir/ (for all dir file)
-/dir/(inner dir file)
+/dir/(outer dir file)
