@@ -1,3 +1,4 @@
 error.log
 *.log(for all log file to ignore)
-dir/
+dir/ (for all dir file)
+/dir/(inner dir file)
